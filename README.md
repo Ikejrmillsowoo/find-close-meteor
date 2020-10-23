@@ -6,3 +6,10 @@ demo to find meteor
 This project requires Ipython3 and requests packages.
 
 `ipython3 find_meteors.py`
+
+First, install pipenv. Then:
+
+```
+pipenv install
+pipenv run "python find-meteors.py"
+```
